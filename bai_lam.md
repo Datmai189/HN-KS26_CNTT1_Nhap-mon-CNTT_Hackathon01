@@ -3,7 +3,7 @@
 - **Mã đề:** 14
 - **Họ tên:** Mai Quốc Đạt
 - **Lớp:** HN-KS26-CNTT1
-- **Link repository:** 
+- **Link repository:** https://github.com/Datmai189/HN-KS26_CNTT1_Nhap-mon-CNTT_Hackathon01
 - **Hệ điều hành (Windows/macOS):** macOS
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
